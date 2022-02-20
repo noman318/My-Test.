@@ -1,9 +1,9 @@
 # Register login with To-dos List
 
-## Register
+## login
 https://drive.google.com/file/d/1h5NxkkhoryGb2NCdgpUtshlk8lZi1wPd/view?usp=sharing
 
-## Login
+## register
 https://drive.google.com/file/d/1Hzj0W4vP6UamkdxK5yTgZJHrG3_vtaYu/view?usp=sharing
 
 ## To-do's List

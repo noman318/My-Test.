@@ -1,10 +1,10 @@
 # Register login with To-dos List
 
 ## Register
-![register](Screenshot (24).png)
+https://drive.google.com/file/d/1h5NxkkhoryGb2NCdgpUtshlk8lZi1wPd/view?usp=sharing
 
 ## Login
-![Login](Screenshot (25).png)
+https://drive.google.com/file/d/1Hzj0W4vP6UamkdxK5yTgZJHrG3_vtaYu/view?usp=sharing
 
 ## To-do's List
-![Todos](Screenshot (26).png)
+https://drive.google.com/file/d/1w5pBAY7O9uGnFvtfmGDbpbK2ONqp2qcg/view?usp=sharing
